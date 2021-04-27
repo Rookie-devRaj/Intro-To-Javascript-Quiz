@@ -13,8 +13,10 @@ Code:
 console.log(1 + 5 - 2 + 38);
 console.log(80/2 +10 -8);
 console.log(2%4 +40);
+console.log(2%4 + (((2+4)-2)*10));
 
 Output:
+42
 42
 42
 42
